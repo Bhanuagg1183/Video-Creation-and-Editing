@@ -1,9 +1,9 @@
-# Video-Creation-and-Editing
+# Video Creation and Editing
 
 ### This repository contains a collection of video files related to various workplace activities, such as applying for leave, marking attendance, registering faces, and conducting meetings.
 
 
-# Main Function Points
+## - Main Function Points
 
 ### Video tutorials for applying leave requests
 
@@ -20,7 +20,7 @@
 ### Video content for HR and administrative workflows
 
 
-# Technology Stack
+## - Technology Stack
 
 ### Video files (.mp4 format) - primary content medium
 
