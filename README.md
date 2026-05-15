@@ -1,24 +1,24 @@
 # Video Creation and Editing
 
-##### This repository of video files detailing workplace activities such as leave application, attendance marking, face registration, and meeting conduct, acts as a visual guide for corporate HR processes and operational procedures.To maximize the effectiveness of these videos, following best practices in creation and editing is essential for clarity and engagement.
+#### This repository of video files detailing workplace activities such as leave application, attendance marking, face registration, and meeting conduct, acts as a visual guide for corporate HR processes and operational procedures.To maximize the effectiveness of these videos, following best practices in creation and editing is essential for clarity and engagement.
 
 
 
 ## - Main Function Points:
 
-##### Video tutorials for applying leave requests
+- #### Video tutorials for applying leave requests
 
-##### Attendance marking demonstration videos
+- #### Attendance marking demonstration videos
 
-##### Face registration/facial recognition setup videos
+- #### Face registration/facial recognition setup videos
 
-##### Meeting scheduling and conducting via multiple access methods (Admin ID, Employee, Visitor)
+- #### Meeting scheduling and conducting via multiple access methods (Admin ID, Employee, Visitor)
 
-##### Walk-in meeting functionality videos
+- #### Walk-in meeting functionality videos
 
-##### Guard/security invitation management videos
+- #### Guard/security invitation management videos
 
-##### Video content for HR and administrative workflows
+- #### Video content for HR and administrative workflows
 
 
 ## - Key Aspects for Workplace Video Creation:
