@@ -49,7 +49,7 @@
 - **Easy Online Editing:** Guidde (for fast AI-powered creation).
 
 
-## - Technology Stack:
+## Technology Stack:
 
 - **Video files (.mp4 format) - primary content medium**
 
