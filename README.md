@@ -58,6 +58,6 @@
 - **GitHub platform for repository hosting**
 
 
-## - Conclusion:
+## Conclusion:
 
 For a quick and efficient workflow, consider using Camtasia Rev to automatically apply polished layouts to your recordings.
