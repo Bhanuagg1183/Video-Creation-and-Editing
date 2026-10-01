@@ -20,7 +20,7 @@
 - #### Video content for HR and administrative workflows
 
 
-## - Key Aspects for Workplace Video Creation:
+## Key Aspects for Workplace Video Creation:
 
 - **Targeted Content:** Create short, focused videos (2-5 minutes) that address a single topic.
 
