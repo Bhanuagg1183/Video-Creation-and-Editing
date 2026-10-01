@@ -40,7 +40,7 @@
 - **Meetings:** Record via Zoom or Panopto to provide a searchable, captioned record of the meeting.
 
 
-## - Recommended Tools:
+## Recommended Tools:
 
 - **All-in-One Training/Editing:** Camtasia (best for screen + webcam recording), Wondershare Filmora (best for editing with effects).
 
