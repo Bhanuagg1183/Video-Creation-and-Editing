@@ -31,7 +31,7 @@
 - **Brand Consistency:** Use company-consistent colors, fonts, and logos to maintain a professional appearance.
 
 
-## - Best Practices for Specific Workplace Activities:
+## Best Practices for Specific Workplace Activities:
 
 - **Face Registration & Attendance:** Ensure high-quality lighting and clear, close-up shots of the registration device.
 
