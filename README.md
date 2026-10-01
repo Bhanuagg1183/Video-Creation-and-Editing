@@ -3,7 +3,7 @@
 **This repository of video files detailing workplace activities such as leave application, attendance marking, face registration, and meeting conduct, acts as a visual guide for corporate HR processes and operational procedures.To maximize the effectiveness of these videos, following best practices in creation and editing is essential for clarity and engagement.**
 
 
-## - Main Function Points:
+## Main Function Points:
 
 - #### Video tutorials for applying leave requests
 
